@@ -1,0 +1,6 @@
+db:
+  database: "test.db"
+  host: ""
+  password:
+  source: "sqlite3"
+  user:

@@ -1,0 +1,3 @@
+id,email,CreatedAt,UpdatedAt,DeleteAt
+1,hoge1@example.com,2012-04-01T15:00:00Z,2012-04-01T15:00:00Z,2012-04-01T15:00:00Z
+2,hoge2@example.com,2012-04-01T15:00:00Z,2012-04-01T15:00:00Z,2012-04-01T15:00:00Z
